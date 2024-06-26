@@ -3,7 +3,9 @@
 ![Python](https://a11ybadges.com/badge?logo=python)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://a11ybadges.com/badge?logo=docker)
-![GitHub Actions](https://a11ybadges.com/badge?logo=githubactions)
+![GitHub Actions](https://a11ybadges.com/badge?logo=githubactions)  
+
+
 Taski - это записная книжка для дел на день. Пользователь может записывать свои дела и помечать, если они были выполнены.
 Настроены  CI/CD проекта на сервер.
 
